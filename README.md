@@ -2,7 +2,7 @@
 <div>
   <p align ="center">
     <a href="https://git.io/streak-stats">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=boenkkk&theme=monokai&disable_animations=false&hide_border=true&date_format=M Y&include_all_commits=true&count_private=true" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=boenkkk&theme=monokai&disable_animations=false&hide_border=true&date_format=M Y&include_all_commits=true&count_private=true&type=png" />
     </a>
   </p>
   <p align="center">
